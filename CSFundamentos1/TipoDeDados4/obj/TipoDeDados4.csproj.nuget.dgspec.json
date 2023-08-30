@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/TipoDeDados4.csproj": {}
+    "/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeDados4/TipoDeDados4.csproj": {}
   },
   "projects": {
-    "/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/TipoDeDados4.csproj": {
+    "/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeDados4/TipoDeDados4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/TipoDeDados4.csproj",
+        "projectUniqueName": "/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeDados4/TipoDeDados4.csproj",
         "projectName": "TipoDeDados4",
-        "projectPath": "/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/TipoDeDados4.csproj",
+        "projectPath": "/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeDados4/TipoDeDados4.csproj",
         "packagesPath": "/Users/thuanymendonca/.nuget/packages/",
-        "outputPath": "/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/obj/",
+        "outputPath": "/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeDados4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/thuanymendonca/.nuget/NuGet/NuGet.Config"

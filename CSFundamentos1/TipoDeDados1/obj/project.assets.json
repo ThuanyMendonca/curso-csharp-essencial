@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados1/TipoDeDados1.csproj",
+      "projectUniqueName": "/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeDados1/TipoDeDados1.csproj",
       "projectName": "TipoDeDados1",
-      "projectPath": "/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados1/TipoDeDados1.csproj",
+      "projectPath": "/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeDados1/TipoDeDados1.csproj",
       "packagesPath": "/Users/thuanymendonca/.nuget/packages/",
-      "outputPath": "/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados1/obj/",
+      "outputPath": "/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeDados1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thuanymendonca/.nuget/NuGet/NuGet.Config"
