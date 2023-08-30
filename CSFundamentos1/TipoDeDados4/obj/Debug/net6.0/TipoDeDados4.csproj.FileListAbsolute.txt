@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/bin/Debug/net6.0/TipoDeDados4
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/bin/Debug/net6.0/TipoDeDados4.deps.json
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/bin/Debug/net6.0/TipoDeDados4.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/bin/Debug/net6.0/TipoDeDados4.dll
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/bin/Debug/net6.0/TipoDeDados4.pdb
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/obj/Debug/net6.0/TipoDeDados4.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/obj/Debug/net6.0/TipoDeDados4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/obj/Debug/net6.0/TipoDeDados4.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/obj/Debug/net6.0/TipoDeDados4.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/obj/Debug/net6.0/TipoDeDados4.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/obj/Debug/net6.0/TipoDeDados4.dll
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/obj/Debug/net6.0/refint/TipoDeDados4.dll
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/obj/Debug/net6.0/TipoDeDados4.pdb
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/obj/Debug/net6.0/TipoDeDados4.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso/CSFundamentos1/TipoDeDados4/obj/Debug/net6.0/ref/TipoDeDados4.dll
