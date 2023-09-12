@@ -1,27 +1,27 @@
-﻿<Properties StartupConfiguration="{CCCE568D-6C01-4AE7-B6FC-86E7E28A8CB7}|Default">
-  <MonoDevelop.Ide.ItemProperties.TipoDeDados4 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.TipoDeDados1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.TipoDeDados3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.TipoDeDados2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+﻿<Properties StartupConfiguration="{59037FFC-FEBA-4CA0-A90D-2EE6F3D3B36D}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="TipoDeDados1/Program.cs">
     <Files>
-      <File FileName="TipoDeDados1/Program.cs" Line="4" Column="1" />
+      <File FileName="TipoDeDados4/Program.cs" Line="26" Column="26" />
+      <File FileName="TipoDeDados1/Program.cs" Line="17" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
-          <Node name="CSFundamentos1" expanded="True">
-            <Node name="TipoDeDados1" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="CSFundamentos1" expanded="True" selected="True">
+            <Node name="TipoDeDados1" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TipoDeDados1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TipoDeDados5 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TipoDeDados2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TipoDeDados4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TipoDeDados3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>
