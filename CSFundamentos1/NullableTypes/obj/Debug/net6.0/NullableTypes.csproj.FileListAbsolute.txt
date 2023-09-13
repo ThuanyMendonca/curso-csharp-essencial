@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/bin/Debug/net6.0/NullableTypes
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/bin/Debug/net6.0/NullableTypes.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/bin/Debug/net6.0/NullableTypes.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/bin/Debug/net6.0/NullableTypes.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/bin/Debug/net6.0/NullableTypes.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/obj/Debug/net6.0/NullableTypes.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/obj/Debug/net6.0/NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/obj/Debug/net6.0/NullableTypes.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/obj/Debug/net6.0/NullableTypes.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/obj/Debug/net6.0/NullableTypes.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/obj/Debug/net6.0/NullableTypes.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/obj/Debug/net6.0/refint/NullableTypes.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/obj/Debug/net6.0/NullableTypes.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/obj/Debug/net6.0/NullableTypes.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/NullableTypes/obj/Debug/net6.0/ref/NullableTypes.dll
