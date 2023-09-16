@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{31A5CE91-CD97-4134-A974-40FBDF796F0D}|Default">
+﻿<Properties StartupConfiguration="{B044FC28-CF99-410B-891E-427064BEA3F5}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="TipoDeDados1/Program.cs">
     <Files>
@@ -18,11 +18,12 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.TipoDeDados1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TipoDeDados5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FormatarDados FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TipoDeDados2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TipoDeDados4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TipoDeDados3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.NullableTypes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.NullableTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>

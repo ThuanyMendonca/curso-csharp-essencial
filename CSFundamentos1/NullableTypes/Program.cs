@@ -44,6 +44,7 @@ int? z = x * y;
 Console.WriteLine(z);
 
 // HasValue e Value
+
 int? teste = 100;
 if (teste.HasValue) {
     Console.WriteLine($"teste = {teste.Value}");

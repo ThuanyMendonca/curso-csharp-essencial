@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/bin/Debug/net6.0/FormatarDados
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/bin/Debug/net6.0/FormatarDados.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/bin/Debug/net6.0/FormatarDados.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/bin/Debug/net6.0/FormatarDados.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/bin/Debug/net6.0/FormatarDados.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/obj/Debug/net6.0/FormatarDados.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/obj/Debug/net6.0/FormatarDados.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/obj/Debug/net6.0/FormatarDados.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/obj/Debug/net6.0/FormatarDados.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/obj/Debug/net6.0/FormatarDados.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/obj/Debug/net6.0/FormatarDados.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/obj/Debug/net6.0/refint/FormatarDados.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/obj/Debug/net6.0/FormatarDados.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/obj/Debug/net6.0/FormatarDados.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/FormatarDados/obj/Debug/net6.0/ref/FormatarDados.dll
