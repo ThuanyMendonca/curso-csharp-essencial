@@ -1,0 +1,5 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net6.0/InferenciaTipos1.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net6.0/InferenciaTipos1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net6.0/InferenciaTipos1.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net6.0/InferenciaTipos1.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net6.0/InferenciaTipos1.csproj.CoreCompileInputs.cache

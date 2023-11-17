@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/bin/Debug/net6.0/ConversaoDeTipos
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/bin/Debug/net6.0/ConversaoDeTipos.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/bin/Debug/net6.0/ConversaoDeTipos.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/bin/Debug/net6.0/ConversaoDeTipos.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/bin/Debug/net6.0/ConversaoDeTipos.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/obj/Debug/net6.0/ConversaoDeTipos.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/obj/Debug/net6.0/ConversaoDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/obj/Debug/net6.0/ConversaoDeTipos.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/obj/Debug/net6.0/ConversaoDeTipos.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/obj/Debug/net6.0/ConversaoDeTipos.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/obj/Debug/net6.0/ConversaoDeTipos.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/obj/Debug/net6.0/refint/ConversaoDeTipos.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/obj/Debug/net6.0/ConversaoDeTipos.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/obj/Debug/net6.0/ConversaoDeTipos.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConversaoDeTipos/obj/Debug/net6.0/ref/ConversaoDeTipos.dll

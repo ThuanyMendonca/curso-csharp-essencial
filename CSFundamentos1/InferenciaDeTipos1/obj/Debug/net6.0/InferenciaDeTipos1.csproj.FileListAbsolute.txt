@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/bin/Debug/net6.0/InferenciaDeTipos1
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/bin/Debug/net6.0/InferenciaDeTipos1.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/bin/Debug/net6.0/InferenciaDeTipos1.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/bin/Debug/net6.0/InferenciaDeTipos1.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/bin/Debug/net6.0/InferenciaDeTipos1.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/obj/Debug/net6.0/InferenciaDeTipos1.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/obj/Debug/net6.0/InferenciaDeTipos1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/obj/Debug/net6.0/InferenciaDeTipos1.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/obj/Debug/net6.0/InferenciaDeTipos1.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/obj/Debug/net6.0/InferenciaDeTipos1.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/obj/Debug/net6.0/InferenciaDeTipos1.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/obj/Debug/net6.0/refint/InferenciaDeTipos1.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/obj/Debug/net6.0/InferenciaDeTipos1.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/obj/Debug/net6.0/InferenciaDeTipos1.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/InferenciaDeTipos1/obj/Debug/net6.0/ref/InferenciaDeTipos1.dll

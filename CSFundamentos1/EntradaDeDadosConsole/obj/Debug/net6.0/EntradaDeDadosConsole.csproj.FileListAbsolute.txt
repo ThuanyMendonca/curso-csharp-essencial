@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/bin/Debug/net6.0/EntradaDeDadosConsole
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/bin/Debug/net6.0/EntradaDeDadosConsole.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/bin/Debug/net6.0/EntradaDeDadosConsole.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/bin/Debug/net6.0/EntradaDeDadosConsole.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/bin/Debug/net6.0/EntradaDeDadosConsole.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/obj/Debug/net6.0/EntradaDeDadosConsole.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/obj/Debug/net6.0/EntradaDeDadosConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/obj/Debug/net6.0/EntradaDeDadosConsole.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/obj/Debug/net6.0/EntradaDeDadosConsole.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/obj/Debug/net6.0/EntradaDeDadosConsole.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/obj/Debug/net6.0/EntradaDeDadosConsole.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/obj/Debug/net6.0/refint/EntradaDeDadosConsole.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/obj/Debug/net6.0/EntradaDeDadosConsole.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/obj/Debug/net6.0/EntradaDeDadosConsole.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EntradaDeDadosConsole/obj/Debug/net6.0/ref/EntradaDeDadosConsole.dll
