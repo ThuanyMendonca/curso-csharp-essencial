@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/bin/Debug/net6.0/TipoDeReferenciasAnulaveis
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/bin/Debug/net6.0/TipoDeReferenciasAnulaveis.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/bin/Debug/net6.0/TipoDeReferenciasAnulaveis.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/bin/Debug/net6.0/TipoDeReferenciasAnulaveis.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/bin/Debug/net6.0/TipoDeReferenciasAnulaveis.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/obj/Debug/net6.0/TipoDeReferenciasAnulaveis.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/obj/Debug/net6.0/TipoDeReferenciasAnulaveis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/obj/Debug/net6.0/TipoDeReferenciasAnulaveis.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/obj/Debug/net6.0/TipoDeReferenciasAnulaveis.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/obj/Debug/net6.0/TipoDeReferenciasAnulaveis.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/obj/Debug/net6.0/TipoDeReferenciasAnulaveis.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/obj/Debug/net6.0/refint/TipoDeReferenciasAnulaveis.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/obj/Debug/net6.0/TipoDeReferenciasAnulaveis.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/obj/Debug/net6.0/TipoDeReferenciasAnulaveis.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/TipoDeReferenciasAnulaveis/obj/Debug/net6.0/ref/TipoDeReferenciasAnulaveis.dll
