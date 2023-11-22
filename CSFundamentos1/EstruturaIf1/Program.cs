@@ -1,9 +1,9 @@
 ﻿Console.WriteLine("## Estrutura If ##\n");
 
-Console.WriteLine("Cliente especial (S/N)");
-var resposta = Console.ReadLine();
+Console.WriteLine("Cliente especial (true/false)");
+var resposta = Convert.ToBoolean(Console.ReadLine());
 
-if (resposta == "S") {
+if (resposta) {
     Console.WriteLine("Desconto de 10%");
 }
 

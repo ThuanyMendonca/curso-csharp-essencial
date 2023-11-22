@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/bin/Debug/net6.0/EstruturaIfElse
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/bin/Debug/net6.0/EstruturaIfElse.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/bin/Debug/net6.0/EstruturaIfElse.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/bin/Debug/net6.0/EstruturaIfElse.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/bin/Debug/net6.0/EstruturaIfElse.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/obj/Debug/net6.0/EstruturaIfElse.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/obj/Debug/net6.0/EstruturaIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/obj/Debug/net6.0/EstruturaIfElse.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/obj/Debug/net6.0/EstruturaIfElse.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/obj/Debug/net6.0/EstruturaIfElse.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/obj/Debug/net6.0/EstruturaIfElse.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/obj/Debug/net6.0/refint/EstruturaIfElse.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/obj/Debug/net6.0/EstruturaIfElse.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/obj/Debug/net6.0/EstruturaIfElse.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaIfElse/obj/Debug/net6.0/ref/EstruturaIfElse.dll

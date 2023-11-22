@@ -1,9 +1,11 @@
-﻿<Properties StartupConfiguration="{56E1FCB8-BC66-421B-A2F4-E792771DAF14}|Default">
+﻿<Properties StartupConfiguration="{6E3BDD9A-B030-4785-A9E5-C0BD50C83AF1}|Default">
   <MonoDevelop.Ide.ItemProperties.InferenciaDeTipos1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TipoDeDados2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.NullableTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TipoDeDados4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.FormatarDados PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ConversaoDeTipos PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TipoDeReferenciasAnulaveis PreferredExecutionTarget="MonoDevelop.Default" />
@@ -11,16 +13,22 @@
   <MonoDevelop.Ide.ItemProperties.TipoDeDados1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.TipoDeDados5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.EstruturaIf1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EstruturaIfElse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EstruturaIf1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.TipoDeDados3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="EstruturaIfElse/Program.cs">
+    <Files>
+      <File FileName="EstruturaIfElse/Program.cs" Line="16" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
           <Node name="CSFundamentos1" expanded="True">
-            <Node name="InferenciaTipos1" selected="True" />
+            <Node name="EstruturaIfElse">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
