@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/bin/Debug/net6.0/EstruturaDeRepeticao1
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/bin/Debug/net6.0/EstruturaDeRepeticao1.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/bin/Debug/net6.0/EstruturaDeRepeticao1.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/bin/Debug/net6.0/EstruturaDeRepeticao1.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/bin/Debug/net6.0/EstruturaDeRepeticao1.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/obj/Debug/net6.0/EstruturaDeRepeticao1.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/obj/Debug/net6.0/EstruturaDeRepeticao1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/obj/Debug/net6.0/EstruturaDeRepeticao1.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/obj/Debug/net6.0/EstruturaDeRepeticao1.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/obj/Debug/net6.0/EstruturaDeRepeticao1.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/obj/Debug/net6.0/EstruturaDeRepeticao1.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/obj/Debug/net6.0/refint/EstruturaDeRepeticao1.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/obj/Debug/net6.0/EstruturaDeRepeticao1.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/obj/Debug/net6.0/EstruturaDeRepeticao1.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/EstruturaDeRepeticao1/obj/Debug/net6.0/ref/EstruturaDeRepeticao1.dll

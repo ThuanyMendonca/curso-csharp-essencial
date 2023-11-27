@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{6E3BDD9A-B030-4785-A9E5-C0BD50C83AF1}|Default">
+﻿<Properties StartupConfiguration="{DAE88123-EB83-4D05-96D0-EFC051F92533}|Default">
   <MonoDevelop.Ide.ItemProperties.InferenciaDeTipos1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TipoDeDados2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.NullableTypes PreferredExecutionTarget="MonoDevelop.Default" />
@@ -17,16 +17,16 @@
   <MonoDevelop.Ide.ItemProperties.EstruturaIf1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.TipoDeDados3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EstruturaIfElse/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EstruturaDeRepeticao1/Program.cs">
     <Files>
-      <File FileName="EstruturaIfElse/Program.cs" Line="16" Column="1" />
+      <File FileName="EstruturaDeRepeticao1/Program.cs" Line="65" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
-          <Node name="CSFundamentos1" expanded="True">
-            <Node name="EstruturaIfElse">
+          <Node name="CSFundamentos1">
+            <Node name="EstruturaDeRepeticao1">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -40,4 +40,5 @@
   <MonoDevelop.Ide.ItemProperties.Constantes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.SaidaDeDados PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.PrecedenciaDeOperadores PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EstruturaDeRepeticao1 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
