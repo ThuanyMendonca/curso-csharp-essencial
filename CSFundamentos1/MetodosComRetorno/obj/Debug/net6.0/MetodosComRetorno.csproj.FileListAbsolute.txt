@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/bin/Debug/net6.0/MetodosComRetorno
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/bin/Debug/net6.0/MetodosComRetorno.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/bin/Debug/net6.0/MetodosComRetorno.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/bin/Debug/net6.0/MetodosComRetorno.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/bin/Debug/net6.0/MetodosComRetorno.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/obj/Debug/net6.0/MetodosComRetorno.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/obj/Debug/net6.0/MetodosComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/obj/Debug/net6.0/MetodosComRetorno.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/obj/Debug/net6.0/MetodosComRetorno.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/obj/Debug/net6.0/MetodosComRetorno.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/obj/Debug/net6.0/MetodosComRetorno.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/obj/Debug/net6.0/refint/MetodosComRetorno.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/obj/Debug/net6.0/MetodosComRetorno.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/obj/Debug/net6.0/MetodosComRetorno.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosComRetorno/obj/Debug/net6.0/ref/MetodosComRetorno.dll

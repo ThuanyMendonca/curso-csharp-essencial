@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/bin/Debug/net6.0/MetodosExemploPratico
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/bin/Debug/net6.0/MetodosExemploPratico.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/bin/Debug/net6.0/MetodosExemploPratico.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/bin/Debug/net6.0/MetodosExemploPratico.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/bin/Debug/net6.0/MetodosExemploPratico.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/obj/Debug/net6.0/MetodosExemploPratico.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/obj/Debug/net6.0/MetodosExemploPratico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/obj/Debug/net6.0/MetodosExemploPratico.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/obj/Debug/net6.0/MetodosExemploPratico.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/obj/Debug/net6.0/MetodosExemploPratico.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/obj/Debug/net6.0/MetodosExemploPratico.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/obj/Debug/net6.0/refint/MetodosExemploPratico.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/obj/Debug/net6.0/MetodosExemploPratico.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/obj/Debug/net6.0/MetodosExemploPratico.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosExemploPratico/obj/Debug/net6.0/ref/MetodosExemploPratico.dll

@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/bin/Debug/net6.0/MetodosESobrecarga
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/bin/Debug/net6.0/MetodosESobrecarga.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/bin/Debug/net6.0/MetodosESobrecarga.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/bin/Debug/net6.0/MetodosESobrecarga.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/bin/Debug/net6.0/MetodosESobrecarga.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/obj/Debug/net6.0/MetodosESobrecarga.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/obj/Debug/net6.0/MetodosESobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/obj/Debug/net6.0/MetodosESobrecarga.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/obj/Debug/net6.0/MetodosESobrecarga.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/obj/Debug/net6.0/MetodosESobrecarga.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/obj/Debug/net6.0/MetodosESobrecarga.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/obj/Debug/net6.0/refint/MetodosESobrecarga.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/obj/Debug/net6.0/MetodosESobrecarga.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/obj/Debug/net6.0/MetodosESobrecarga.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/MetodosESobrecarga/obj/Debug/net6.0/ref/MetodosESobrecarga.dll

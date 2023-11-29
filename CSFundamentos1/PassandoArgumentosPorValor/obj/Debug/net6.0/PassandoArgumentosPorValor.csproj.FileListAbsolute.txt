@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/bin/Debug/net6.0/PassandoArgumentosPorValor
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/bin/Debug/net6.0/PassandoArgumentosPorValor.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/bin/Debug/net6.0/PassandoArgumentosPorValor.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/bin/Debug/net6.0/PassandoArgumentosPorValor.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/bin/Debug/net6.0/PassandoArgumentosPorValor.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/obj/Debug/net6.0/PassandoArgumentosPorValor.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/obj/Debug/net6.0/PassandoArgumentosPorValor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/obj/Debug/net6.0/PassandoArgumentosPorValor.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/obj/Debug/net6.0/PassandoArgumentosPorValor.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/obj/Debug/net6.0/PassandoArgumentosPorValor.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/obj/Debug/net6.0/PassandoArgumentosPorValor.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/obj/Debug/net6.0/refint/PassandoArgumentosPorValor.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/obj/Debug/net6.0/PassandoArgumentosPorValor.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/obj/Debug/net6.0/PassandoArgumentosPorValor.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorValor/obj/Debug/net6.0/ref/PassandoArgumentosPorValor.dll
