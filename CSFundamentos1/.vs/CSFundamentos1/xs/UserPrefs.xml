@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{50AB7F6D-CDBD-48EA-A3FF-A26444E66E0F}|Default">
+﻿<Properties StartupConfiguration="{6BCC2F33-E249-4BE9-8FCB-599D818B79D9}|Default">
   <MonoDevelop.Ide.ItemProperties.MetodosESobrecarga PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.InferenciaDeTipos1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Constantes PreferredExecutionTarget="MonoDevelop.Default" />
@@ -31,6 +31,7 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.EntradaDeDadosConsole PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.This2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PassandoArgumentosPorReferencia2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TipoDeDados2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.PassandoArgumentosPorValor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TipoDeDados3 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -39,11 +40,12 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.OperadoresAritmeticos PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EstruturaIf1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ArgumentosNomeados PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.MetodosExemploPratico PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.PrecedenciaDeOperadores PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TipoDeDados4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EstruturaIfElse PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MetodosComRetorno PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TipoDeReferenciasAnulaveis PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.PassandoArgumentosPorReferencia PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PassandoArgumentosPorReferencia PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

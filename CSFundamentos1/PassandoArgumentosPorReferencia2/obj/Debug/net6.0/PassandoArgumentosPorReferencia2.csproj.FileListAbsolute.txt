@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/bin/Debug/net6.0/PassandoArgumentosPorReferencia2
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/bin/Debug/net6.0/PassandoArgumentosPorReferencia2.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/bin/Debug/net6.0/PassandoArgumentosPorReferencia2.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/bin/Debug/net6.0/PassandoArgumentosPorReferencia2.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/bin/Debug/net6.0/PassandoArgumentosPorReferencia2.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/obj/Debug/net6.0/PassandoArgumentosPorReferencia2.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/obj/Debug/net6.0/PassandoArgumentosPorReferencia2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/obj/Debug/net6.0/PassandoArgumentosPorReferencia2.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/obj/Debug/net6.0/PassandoArgumentosPorReferencia2.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/obj/Debug/net6.0/PassandoArgumentosPorReferencia2.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/obj/Debug/net6.0/PassandoArgumentosPorReferencia2.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/obj/Debug/net6.0/refint/PassandoArgumentosPorReferencia2.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/obj/Debug/net6.0/PassandoArgumentosPorReferencia2.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/obj/Debug/net6.0/PassandoArgumentosPorReferencia2.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/PassandoArgumentosPorReferencia2/obj/Debug/net6.0/ref/PassandoArgumentosPorReferencia2.dll

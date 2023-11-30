@@ -1,4 +1,4 @@
-﻿Console.WriteLine("## Passando argumentos por referencia ## \n");
+﻿Console.WriteLine("## Passando argumentos por referencia utilizando ref ## \n");
 
 int x = 20;
 
