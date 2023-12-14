@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/bin/Debug/net6.0/ParametrosOpcionais
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/bin/Debug/net6.0/ParametrosOpcionais.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/bin/Debug/net6.0/ParametrosOpcionais.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/bin/Debug/net6.0/ParametrosOpcionais.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/bin/Debug/net6.0/ParametrosOpcionais.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/obj/Debug/net6.0/ParametrosOpcionais.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/obj/Debug/net6.0/ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/obj/Debug/net6.0/ParametrosOpcionais.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/obj/Debug/net6.0/ParametrosOpcionais.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/obj/Debug/net6.0/ParametrosOpcionais.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/obj/Debug/net6.0/ParametrosOpcionais.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/obj/Debug/net6.0/refint/ParametrosOpcionais.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/obj/Debug/net6.0/ParametrosOpcionais.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/obj/Debug/net6.0/ParametrosOpcionais.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ParametrosOpcionais/obj/Debug/net6.0/ref/ParametrosOpcionais.dll

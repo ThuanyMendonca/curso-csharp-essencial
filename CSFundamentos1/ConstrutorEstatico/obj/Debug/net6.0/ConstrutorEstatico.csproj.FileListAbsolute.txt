@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/bin/Debug/net6.0/ConstrutorEstatico
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/bin/Debug/net6.0/ConstrutorEstatico.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/bin/Debug/net6.0/ConstrutorEstatico.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/bin/Debug/net6.0/ConstrutorEstatico.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/bin/Debug/net6.0/ConstrutorEstatico.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/obj/Debug/net6.0/ConstrutorEstatico.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/obj/Debug/net6.0/ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/obj/Debug/net6.0/ConstrutorEstatico.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/obj/Debug/net6.0/ConstrutorEstatico.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/obj/Debug/net6.0/ConstrutorEstatico.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/obj/Debug/net6.0/ConstrutorEstatico.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/obj/Debug/net6.0/refint/ConstrutorEstatico.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/obj/Debug/net6.0/ConstrutorEstatico.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/obj/Debug/net6.0/ConstrutorEstatico.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/ConstrutorEstatico/obj/Debug/net6.0/ref/ConstrutorEstatico.dll

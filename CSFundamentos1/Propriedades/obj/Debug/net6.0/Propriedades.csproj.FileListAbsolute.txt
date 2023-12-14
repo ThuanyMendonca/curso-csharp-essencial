@@ -1,0 +1,15 @@
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/bin/Debug/net6.0/Propriedades
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/bin/Debug/net6.0/Propriedades.deps.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/bin/Debug/net6.0/Propriedades.runtimeconfig.json
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/bin/Debug/net6.0/Propriedades.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/bin/Debug/net6.0/Propriedades.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/obj/Debug/net6.0/Propriedades.csproj.AssemblyReference.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/obj/Debug/net6.0/Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/obj/Debug/net6.0/Propriedades.AssemblyInfoInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/obj/Debug/net6.0/Propriedades.AssemblyInfo.cs
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/obj/Debug/net6.0/Propriedades.csproj.CoreCompileInputs.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/obj/Debug/net6.0/Propriedades.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/obj/Debug/net6.0/refint/Propriedades.dll
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/obj/Debug/net6.0/Propriedades.pdb
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/obj/Debug/net6.0/Propriedades.genruntimeconfig.cache
+/Users/thuanymendonca/Documents/estudos/curso-csharp-essencial/CSFundamentos1/Propriedades/obj/Debug/net6.0/ref/Propriedades.dll
